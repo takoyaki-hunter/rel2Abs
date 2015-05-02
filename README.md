@@ -1,5 +1,5 @@
 # rel2Abs
-A simple php library which convert relative url paths to absolute paths written in url and as part of html.
+Php library convert relative url paths to absolute paths written as url and part of html.
 
 # Usage
 
